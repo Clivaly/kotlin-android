@@ -1,0 +1,41 @@
+{
+  "data": [
+    {
+      "id": 377960108,
+      "name": ".NET",
+      "owner": {
+        "login": "Clivaly",
+        "avatar_url": "https://avatars.githubusercontent.com/u/64047070?v=4"
+      },
+      "html_url": "https://github.com/Clivaly/.NET",
+      "description": "Projetos em C# || .NET",
+      "stargazers_count": 0,
+      "language": "C#"
+    },
+    {
+      "id": 402067439,
+      "name": "api-dio-test",
+      "owner": {
+        "login": "Clivaly",
+        "avatar_url": "https://avatars.githubusercontent.com/u/64047070?v=4"
+      },
+      "html_url": "https://github.com/Clivaly/api-dio-test",
+      "description": null,
+      "stargazers_count": 0,
+      "language": "Java"
+    },
+    {
+      "id": 401420280,
+      "name": "app_store_node_react_react-native",
+      "private": false,
+      "owner": {
+        "login": "Clivaly",
+        "avatar_url": "https://avatars.githubusercontent.com/u/64047070?v=4"
+      },
+      "html_url": "https://github.com/Clivaly/app_store_node_react_react-native",
+      "description": null,
+      "stargazers_count": 0,
+      "language": "JavaScript"
+    }
+  ]
+}
